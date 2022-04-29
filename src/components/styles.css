@@ -1,0 +1,44 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  
+}
+
+li {
+  float: right;
+  background-color: black;
+  margin:0;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  margin: 0px 64px 0px 64px;
+  text-decoration: none;
+  padding:40px 0px ;
+  font-size: large;
+}
+
+li a:hover {
+  color: #ED490E;
+}
+
+.frontcontent{
+  background-color: black;
+  font-size: 0;
+  margin: 0;
+  display: block;
+  color: white;
+  padding: 24px;
+}
+
+.frontcontent header{
+  font-family: sans-serif, "Helvetica Neue", "Lucida Grande", Arial;
+  font-stretch: expanded;
+  color: white;
+  text-align: center;
+  font-size: 16px;
+}
