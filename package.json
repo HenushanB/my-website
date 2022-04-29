@@ -2,7 +2,7 @@
   "name": "my-notes-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://HenushanB.github.io/my-website",
+  "homepage": "http://henushanb.github.io/my-website/",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.2",
