@@ -8,7 +8,7 @@ function Frontpage(){
             <header style={{margin: "0"}}>
                 <h1>Henushan Balachandran</h1>
                 <h2>Software Engineer</h2>
-                <h3>Ontario, Canada</h3>
+                <h3>Ontario, The Canada</h3>
                 <h4>Contact</h4>
             </header>
         </div>
