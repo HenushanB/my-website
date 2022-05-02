@@ -4,7 +4,7 @@ import './styles.css';
 
 function Heading(){
     return(
-        <div style={{backgroundColor: "black"}}>
+        <div>
             <ul>
                 <li><a>About</a></li>
                 <li><a>Projects</a></li>
