@@ -5,10 +5,10 @@ import './styles.css';
 function Heading(){
     return(
         <div>
-            <ul>
-                <li><a>About</a></li>
+            <ul style={{ fontWeight:"700"}}>
+                <li><a style={{color: "#f76236"}}>Contact</a></li>
                 <li><a>Projects</a></li>
-                <li><a>Skills</a></li>
+                <li><a>About</a></li>
                 <li><a>Home</a></li>
             </ul>
         </div>
