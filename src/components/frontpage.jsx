@@ -10,8 +10,8 @@ function Frontpage(){
                 <h1 style={{fontFamily: 'Plantinmtprosemibdit'}}>HENUSHAN BALACHANDRAN</h1>
                 <h2 style={{letterSpacing: "0.2em"}}>Software Engineer</h2>
                 <img src="https://uploads-ssl.webflow.com/61d4b50a3b130a78a63644fe/61e57b2ee61e3fe22910c4cc_Rectangle%205.svg" alt={"line"}></img>
-                <h3 style={{fontFamily: 'Plantinmtprosemibdit'}}>Ontario, Canada</h3>
-                <h4 className="contact" style={{letterSpacing: "0.1em"}}>CONTACT</h4>
+                <h3 style={{fontFamily: 'Plantinmtprosemibdit'}}><em>Ontario, Canada</em></h3>
+                <h4 className="contact">CONTACT</h4>
             </div>
             
         </div>

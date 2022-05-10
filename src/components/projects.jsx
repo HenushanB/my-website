@@ -4,6 +4,7 @@ import './styles.css';
 function Projects(){
     var imgIndex = 0;
     const theImages = [require('../components/images/pythongame1.png'),require('../components/images/pythongame2.png')];
+    
     return (
         <div style = {{backgroundColor: "#181818", overflow: "hidden"}}>
             <h2>Projects</h2>
