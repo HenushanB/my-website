@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-website/static/css/main.04fc459c.css",
-    "main.js": "/my-website/static/js/main.78511da7.js",
+    "main.js": "/my-website/static/js/main.f0f63e69.js",
     "static/media/website.png": "/my-website/static/media/website.e779fb1250c832964d11.png",
     "static/media/qarm.png": "/my-website/static/media/qarm.f843fca7254ec0e8ec73.png",
     "static/media/pythongame2.png": "/my-website/static/media/pythongame2.fe773a80473b9286113b.png",
@@ -9,10 +9,10 @@
     "static/media/pythongame1.png": "/my-website/static/media/pythongame1.5419b169ab54525a15c6.png",
     "index.html": "/my-website/index.html",
     "main.04fc459c.css.map": "/my-website/static/css/main.04fc459c.css.map",
-    "main.78511da7.js.map": "/my-website/static/js/main.78511da7.js.map"
+    "main.f0f63e69.js.map": "/my-website/static/js/main.f0f63e69.js.map"
   },
   "entrypoints": [
     "static/css/main.04fc459c.css",
-    "static/js/main.78511da7.js"
+    "static/js/main.f0f63e69.js"
   ]
 }
