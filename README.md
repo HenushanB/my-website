@@ -1,2 +1,2 @@
 # my-website
-# I have created a portfolio outlining my skills and projects.
+# created a portfolio outlining my skills and projects using react.js
